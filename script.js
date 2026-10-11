@@ -9,12 +9,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCyW_fIfLs3wqoWViS9uPMzuRojvCJc7zk",
-  authDomain: "table-tennis-0.firebaseapp.com",
-  projectId: "table-tennis-0",
-  storageBucket: "table-tennis-0.firebasestorage.app",
-  messagingSenderId: "335736590594",
-  appId: "1:335736590594:web:3459aaea73825e0720b21b"
+  apiKey: "AIzaSyBFP9ct9TUcjvIatI8TvXrtuClhO994j8k",
+  authDomain: "table-tennis-app-2f313.firebaseapp.com",
+  projectId: "table-tennis-app-2f313",
+  storageBucket: "table-tennis-app-2f313.firebasestorage.app",
+  messagingSenderId: "462039511740",
+  appId: "1:462039511740:web:ae0beb498878b5167916b9"
 };
 
 const app = initializeApp(firebaseConfig);
